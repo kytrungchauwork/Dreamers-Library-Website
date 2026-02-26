@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Lão Hạc",
+    "author": "Nam Cao",
+    "source": "NXB Kim Đồng",
+    "status": "Hoàn thành",
+    "rating": 4.8,
+    "reviewCount": 152,
+    "genres": ["Văn học", "Truyện ngắn", "Hiện thực"],
+    "coverImage": "https://via.placeholder.com/220x330.png?text=Lao+Hac",
+    "description": "Lão Hạc là một truyện ngắn của nhà văn Nam Cao, được xem là một trong những tác phẩm tiêu biểu nhất của dòng văn học hiện thực trước năm 1945. Tác phẩm kể về cuộc đời bi thảm của một người nông dân nghèo, phải bán đi con chó Vàng yêu quý và cuối cùng chọn cái chết để bảo toàn tài sản cho con trai.",
+    "chapters": [
+      { "id": 1, "title": "Chương 1" },
+      { "id": 2, "title": "Chương 2" },
+      { "id": 3, "title": "Chương 3 - Hết" }
+    ],
+    "views": 1240,
+    "ratingDetail": {
+      "totalStars": 0,
+      "voteCount": 0,
+      "userVotes": {}
+    },
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "Dế Mèn Phiêu Lưu Ký",
+    "author": "Tô Hoài",
+    "source": "NXB Kim Đồng",
+    "status": "Hoàn thành",
+    "rating": 4.9,
+    "reviewCount": 310,
+    "genres": ["Thiếu nhi", "Phiêu lưu", "Kinh điển"],
+    "coverImage": "https://via.placeholder.com/220x330.png?text=De+Men",
+    "description": "Dế Mèn phiêu lưu ký là tác phẩm văn xuôi đặc sắc và nổi tiếng nhất của nhà văn Tô Hoài viết về loài vật, dành cho lứa tuổi thiếu nhi. Truyện gồm 10 chương, kể về những cuộc phiêu lưu của Dế Mèn qua thế giới muôn màu muôn vẻ của các loài vật.",
+    "chapters": [
+      { "id": 1, "title": "Bài học đường đời đầu tiên" },
+      { "id": 2, "title": "Chương 2" },
+      { "id": 3, "title": "Chương 3" },
+      { "id": 4, "title": "Chương 4" }
+    ],
+    "views": 980,
+    "ratingDetail": {
+      "totalStars": 0,
+      "voteCount": 0,
+      "userVotes": {}
+    },
+    "comments": []
+  },
+  {
+    "id": 3,
+    "title": "Số Đỏ",
+    "author": "Vũ Trọng Phụng",
+    "source": "NXB Hội Nhà Văn",
+    "status": "Hoàn thành",
+    "rating": 4.7,
+    "reviewCount": 188,
+    "genres": ["Trào phúng", "Hiện thực", "Hài hước"],
+    "coverImage": "https://via.placeholder.com/220x330.png?text=So+Do",
+    "description": "Số Đỏ là một tiểu thuyết trào phúng của nhà văn Vũ Trọng Phụng, đăng ở Hà Nội báo từ số 40 ngày 7 tháng 10 năm 1936 và được in thành sách lần đầu vào năm 1938. Tác phẩm xoay quanh nhân vật chính là Xuân Tóc Đỏ và đả kích sâu cay xã hội tư sản thành thị Việt Nam những năm 1930-1940.",
+    "chapters": [
+      { "id": 1, "title": "Chương 1: Một cái nhà táng" },
+      { "id": 2, "title": "Chương 2: Huyền thoại về sân quần" }
+    ],
+    "views": 760,
+    "ratingDetail": {
+      "totalStars": 0,
+      "voteCount": 0,
+      "userVotes": {}
+    },
+    "comments": []
+  }
+]

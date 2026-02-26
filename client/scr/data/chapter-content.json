@@ -1,0 +1,20 @@
+{
+  "1-1": {
+    "storyId": 1,
+    "chapterId": 1,
+    "title": "Chương 1",
+    "content": "Hôm sau, Binh Tư, một người làm nghề ăn trộm trong làng, sang chơi với Lão Hạc. Hắn vừa hớp một hớp nước chè nóng, vừa kể...\n\n- Chém cha cái kiếp nhà tôi! Cứ thấy người ta có con chó, con mèo... thì y như rằng, máu ăn trộm lại nổi lên. Hôm qua, tôi vừa chộp được con chó của ông giáo... \n\nLão Hạc nghe mà rụng rời chân tay. Lão lắp bắp hỏi:\n\n- Thế... thế nó có kêu không?..."
+  },
+  "1-2": {
+    "storyId": 1,
+    "chapterId": 2,
+    "title": "Chương 2",
+    "content": "Nội dung của chương 2 truyện Lão Hạc sẽ được hiển thị ở đây. Chúng ta đang sử dụng dữ liệu giả để minh họa."
+  },
+  "2-1": {
+    "storyId": 2,
+    "chapterId": 1,
+    "title": "Bài học đường đời đầu tiên",
+    "content": "Tôi sống độc lập từ thuở bé. Ấy là tục lệ lâu đời trong họ dế chúng tôi. Vả lại, mẹ thường bảo chúng tôi...\n\nSáng nào, mẹ cũng bới đất, đùn lên thành mô cao trước cửa hang, rồi quay lại dặn dò anh em tôi..."
+  }
+}

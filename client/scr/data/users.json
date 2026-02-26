@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "fullName": "Nam Cao",
+    "username": "namcao",
+    "email": "test@email.com",
+    "password": "password123",
+    "birthDate": "1917-10-29",
+    "gender": "Nam",
+    "role": "USER",
+    "status": "ONLINE"
+  },
+  {
+    "id": 2,
+    "fullName": "Thinh Bui",
+    "username": "bhuuthinh2005",
+    "email": "bhuuthinh2005@gmail.com",
+    "password": "thinh2005",
+    "birthDate": "2005-11-27",
+    "gender": "Nam",
+    "role": "MODERATOR",
+    "status": "ONLINE",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNK98p2C7snCJpOQOoxgwu1M0K9QWVJmm3A&s"
+  },
+  {
+    "id": 3,
+    "username": "Admin",
+    "email": "admin@gmail.com",
+    "password": "123456",
+    "role": "ADMIN",
+    "status": "ONLINE"
+  },
+  {
+    "id": 4,
+    "username": "Mod",
+    "email": "mod@gmail.com",
+    "password": "654321",
+    "role": "MODERATOR",
+    "status": "ONLINE"
+  },
+  {
+    "id": 100,
+    "username": "mod_trung",
+    "role": "MODERATOR",
+    "status": "ONLINE"
+  },
+  {
+    "id": 101,
+    "username": "mod_linh",
+    "role": "MODERATOR",
+    "status": "OFFLINE"
+  },
+  {
+    "id": 103,
+    "username": "user_anh",
+    "role": "USER",
+    "status": "ONLINE"
+  },
+  {
+    "id": 104,
+    "username": "user_nam",
+    "role": "USER",
+    "status": "BANNED"
+  }
+]
